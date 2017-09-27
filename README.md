@@ -1,4 +1,4 @@
 # savvyai
-To deploy run `git push heroku master `
+To deploy run ` heroku static:deploy`
 
-https://savvyai.herokuapp.com/
+http://savvy.group/
