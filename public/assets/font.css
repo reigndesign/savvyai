@@ -1,0 +1,73 @@
+@font-face {
+    font-family: OpenSans-Light;
+    src: url(fonts/open-sans/OpenSans-Light.ttf);
+}
+@font-face {
+    font-family: OpenSans-Bold;
+	src: url(fonts/open-sans/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+	src: url(fonts/open-sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: Rubik-Black;
+    	src: url(fonts/Font_Rubik/Rubik-Black.ttf);
+}
+
+@font-face {
+    font-family: Rubik-Bold;
+    	src: url(fonts/Font_Rubik/Rubik-Bold.ttf);
+}
+
+@font-face {
+    font-family: Rubik-Light;
+ 	src: url(fonts/Font_Rubik/Rubik-Light.ttf);
+}
+
+@font-face {
+    font-family: Rubik-Medium;
+ 	src: url(fonts/Font_Rubik/Rubik-Medium.ttf);
+}
+
+
+@font-face {
+    font-family: Roboto-Regular;
+    	src: url(fonts/Roboto-Regular_0.ttf);
+}
+
+@font-face {
+    font-family: Roboto-BoldCondensed;
+    	src: url(fonts/Roboto-BoldCondensed.ttf);
+}
+
+@font-face {
+    font-family:Roboto-BoldCondensedItalic;
+    	src: url(fonts/Roboto-BoldCondensedItalic.ttf);
+}
+
+@font-face {
+    font-family:RobotoCondensed-Bold;
+    	src: url(fontroboto/RobotoCondensed-Bold_0.ttf);
+}
+
+@font-face {
+    font-family:RobotoCondensed-BoldItalic;
+    	src: url(fontrobotoRobotoCondensed-BoldItalic_0.ttf);
+}
+
+@font-face {
+    font-family:Roboto-BoldCondensedItalic;
+    	src: url(fontroboto/Roboto-BoldCondensedItalic.ttf);
+}
+
+@font-face {
+    font-family:Roboto-BoldCondensedItalic;
+    	src: url(fontroboto/Roboto-BoldCondensedItalic.ttf);
+}
+@font-face {
+    font-family:Roboto-Medium;
+    	src: url(fontroboto/Roboto-Medium_0.ttf);
+}
