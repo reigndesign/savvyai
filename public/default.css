@@ -1393,3 +1393,61 @@ blockquote p {
   /* reduce the damage in FF3.0 */
   display:block;
 }
+
+.topslogan {
+  padding:8% 14% 8% 13%;
+  font-size:61px;
+  font-family: Rubik-Light;
+  height:300px;
+  line-height:91px;
+  word-spacing:4px;
+}
+@media screen and (max-width:1250px) {
+  .topslogan {
+    padding:8% 14% 8% 13%;
+    font-size:48px;
+    line-height:70px;
+  }
+}
+.mobileslogan {
+  min-height:100px;
+  font-size:26px;
+  font-family:Rubik-Light;
+}
+
+
+a:visited{background:transparent;}
+a:hover{background:transparent;}
+
+.row{padding:0px;margin:0px;}
+
+
+
+
+
+
+
+
+.bluefont{
+  color:#007aff;
+  font-family: Rubik-Regular;
+}
+  
+  
+  a:link, a:visited {border-bottom:none;}
+  a:hover{background:none;}
+  
+  a:visited {
+    border-bottom:none;
+    color:none ;
+  }
+  a:focus{background:none;}
+  
+a.bluefont:link, a.bluefont:hover,a.bluefont:visited {
+  color:#007aff;
+}
+
+h1.demo {
+  font-family:Rubik-Light;
+  font-size:30px;
+}
